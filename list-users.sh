@@ -4,7 +4,7 @@
 API_URL="https://api.github.com"
 
 # GitHub username and personal access token
-USERNAME=PS1567
+USERNAME=PS1567,pooja,Rishikesh,Mahadev
 TOKEN=$token
 
 # User and Repository information
